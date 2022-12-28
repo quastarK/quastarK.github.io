@@ -1,2 +1,2 @@
-# junsung-github.io
+# quastarK.github.io
 Junsung's github homepage 
